@@ -11,4 +11,12 @@ print("y:", y)
 z = int(y)  # converting float to int
 print("z:", z)
 
+a = 10
+a -= 3  # equivalent to a = a - 3
+print("a:", a)
+a *= 2  # equivalent to a = a * 2
+print("a:", a)
+a/= 4  # equivalent to a = a / 4
+
+
 
